@@ -1,5 +1,4 @@
-# Markdown
-## Markdown Guidelines
+# Markdown Guidelines
 1. 代碼塊前後留一個空格。
 2. 正文、表格於多行代碼塊之間空一行。
 3. 下機標題接上機標題或非共同父標題的同級標題之間需要空行，其餘情況儘量不空行；標題之間不空行。
